@@ -1,0 +1,313 @@
+[
+    {
+      "_id": "1",
+      "name": "The Girl with the Dragon Tattoo",
+      "image": "https://i.ibb.co/QdhSB5w/at.jpg",
+      "about": "A gripping mystery thriller involving a journalist and a hacker.",
+      "category": "Mystery and Thriller",
+      "price": 15.99
+    },
+    
+    {
+      "_id": "3",
+      "name": "The Da Vinci Code",
+      "image": "https://i.ibb.co/RNwrDv2/av.jpg",
+      "about": "A historical mystery thriller involving symbolism and secret societies.",
+      "category": "Mystery and Thriller",
+      "price": 17.99
+    },
+    {
+      "_id": "4",
+      "name": "Inception",
+      "image": "https://i.ibb.co/vZppdQs/aiii.jpg",
+      "about": "A mind-bending science fiction thriller exploring dreams and reality.",
+      "category": "Mystery and Thriller",
+      "price": 18.99
+    },
+    {
+      "_id": "5",
+      "name": "1984",
+      "image": "https://i.ibb.co/s9wVyXT/aaa3.jpg",
+      "about": "A dystopian novel depicting a totalitarian society and government surveillance.",
+      "category": "Fiction",
+      "price": 19.99
+    },
+    {
+      "_id": "6",
+      "name": "The Great Gatsby",
+      "image": "https://i.ibb.co/zxPwt12/agggg.jpg",
+      "about": "A classic novel exploring the American Dream in the Jazz Age.",
+      "category": "Fiction",
+      "price": 20.99
+    },
+    {
+      "_id": "7",
+      "name": "To Kill a Mockingbird",
+      "image": "https://i.ibb.co/M5RZPYP/attt.webp",
+      "about": "Harper Lee's classic novel addressing racial injustice in the American South.",
+      "category": "Fiction",
+      "price": 21.99
+    },
+    {
+      "_id": "8",
+      "name": "Pride and Prejudice",
+      "image": "https://i.ibb.co/fQzGMrB/app.jpg",
+      "about": "Jane Austen's classic novel exploring themes of love, class, and morality.",
+      "category": "Fiction",
+      "price": 22.99
+    },
+    {
+      "_id": "9",
+      "name": "The Gunslinger",
+      "image": "https://i.ibb.co/gWD1Dr0/assssss.jpg",
+      "about": "The first book in Stephen King's Dark Tower series, blending fantasy and Western genres.",
+      "category": "Fiction",
+      "price": 23.99
+    },
+    {
+      "_id": "10",
+      "name": "Sapiens: A Brief History of Humankind",
+      "image": "https://i.ibb.co/WHgJ2By/ah.png",
+      "about": "An exploration of the history of Homo sapiens.",
+      "category": "History",
+      "price": 24.99
+    },
+    {
+      "_id": "11",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "image": "https://i.ibb.co/8sznNpQ/awww.jpg",
+      "about": "The first book in the famous fantasy series by J.K. Rowling.",
+      "category": "Children Books",
+      "price": 25.99
+    },
+    {
+      "_id": "12",
+      "name": "The Chronicles of Narnia",
+      "image": "https://i.ibb.co/VDLn2tT/annnn.jpg",
+      "about": "A classic fantasy series by C.S. Lewis, exploring the magical land of Narnia.",
+      "category": "Children Books",
+      "price": 26.99
+    },
+    {
+      "_id": "13",
+      "name": "The Diary of a Young Girl",
+      "image": "https://i.ibb.co/6vrBGv2/add.jpg",
+      "about": "The personal diary of Anne Frank, a Jewish girl hiding during the Holocaust.",
+      "category": "offered",
+      "price": 27.99
+    },
+    
+    {
+      "_id": "15",
+      "name": "The Fault in Our Stars",
+      "image": "https://i.ibb.co/KcPwP4V/axxxx.jpg",
+      "about": "A heartwarming and heartbreaking young adult novel about love and loss.",
+      "category": "Romance",
+      "price": 29.99
+    },
+    {
+      "_id": "16",
+      "name": "Pride and Prejudice",
+      "image": "https://i.ibb.co/KL2gjpv/ap.jpg",
+      "about": "A classic romance novel by Jane Austen.",
+      "category": "Romance",
+      "price": 30.99
+    },
+    {
+      "_id": "17",
+      "name": "Where the Wild Things Are",
+      "image": "https://i.ibb.co/42KJYJ2/aqqq.jpg",
+      "about": "A beloved children's book about imagination and adventure.",
+      "category": "Children Books",
+      "price": 12.99
+    },
+    {
+      "_id": "18",
+      "name": "Matilda",
+      "image": "https://i.ibb.co/7X0wcLt/amm.jpg",
+      "about": "A children's novel by Roald Dahl about a gifted girl with telekinetic powers.",
+      "category": "Children Books",
+      "price": 13.99
+    },
+    {
+      "_id": "19",
+      "name": "The Lorax",
+      "image": "https://i.ibb.co/q5qtYdY/alll.jpg",
+      "about": "A children's book by Dr. Seuss advocating for environmental conservation.",
+      "category": "Children Books",
+      "price": 14.99
+    },
+    {
+      "_id": "20",
+      "name": "Cosmos",
+      "image": "https://i.ibb.co/xGTB09D/accc.jpg",
+      "about": "A popular science book exploring the universe and our place in it.",
+      "category": "Nature and Science",
+      "price": 15.99
+    },
+    {
+      "_id": "21",
+      "name": "The Immortal Life of Henrietta Lacks",
+      "image": "https://i.ibb.co/vcJC2ys/affff.jpg",
+      "about": "A non-fiction book exploring the impact of Henrietta Lacks' cells on medical research.",
+      "category": "Nature and Science",
+      "price": 16.99
+    },
+    {
+      "_id": "22",
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "image": "https://i.ibb.co/QjTK5ZQ/ahhh.jpg",
+      "about": "A humorous science fiction series by Douglas Adams.",
+      "category": "Nature and Science",
+      "price": 17.99
+    },
+    {
+      "_id": "23",
+      "name": "The Hunger Games",
+      "image": "https://i.ibb.co/7z4Mzpj/hunger.jpg",
+      "about": "A dystopian young adult series by Suzanne Collins.",
+      "category": "Popular",
+      "price": 18.99
+    },
+    {
+      "_id": "24",
+      "name": "The Alchemist",
+      "image": "https://i.ibb.co/QvgdYdX/aaaa.jpg",
+      "about": "A philosophical novel by Paulo Coelho about the journey to find one's destiny.",
+      "category": "Popular",
+      "price": 19.99
+    },
+    {
+      "_id": "25",
+      "name": "The Catcher in the Rye",
+      "image": "https://i.ibb.co/Js1fvDr/b38578624-84881.jpg",
+      "about": "A classic coming-of-age novel by J.D. Salinger.",
+      "category": "Popular",
+      "price": 20.99
+    },
+    {
+      "_id": "26",
+      "name": "The Lord of the Rings",
+      "image": "https://i.ibb.co/wyG39Fd/71j-LBXt-WJWL-AC-UF1000-1000-QL80.jpg",
+      "about": "An epic fantasy trilogy by J.R.R. Tolkien.",
+      "category": "Popular",
+      "price": 21.99
+    },
+    {
+      "_id": "27",
+      "name": "The Shining",
+      "image": "https://i.ibb.co/my9BFQY/The-Shining-1977-front-cover-first-edition.jpg",
+      "about": "A horror novel by Stephen King, set in an isolated hotel.",
+      "category": "Popular",
+      "price": 22.99
+    },
+    {
+      "_id": "28",
+      "name": "The Art of War",
+      "image": "https://i.ibb.co/ryqk2jb/image-512.webp",
+      "about": "An ancient Chinese military treatise attributed to Sun Tzu.",
+      "category": "Popular",
+      "price": 23.99
+    },
+    {
+      "_id": "29",
+      "name": "The Road",
+      "image": "https://i.ibb.co/bWytyh5/the-road-cover.jpg",
+      "about": "A post-apocalyptic novel by Cormac McCarthy.",
+      "category": "Popular",
+      "price": 24.99
+    },
+    {
+      "_id": "30",
+      "name": "The Hobbit",
+      "image": "https://i.ibb.co/R3n75Jr/download-3.jpg",
+      "about": "A fantasy novel by J.R.R. Tolkien, introducing readers to the world of Middle-earth.",
+      "category": "Popular",
+      "price": 25.99
+    },
+    {
+      "_id": "31",
+      "name": "The Great Gatsby",
+      "image": "https://i.ibb.co/zxPwt12/agggg.jpg",
+      "about": "A classic novel exploring the American Dream in the Jazz Age.",
+      "category": "Popular",
+      "price": 20.99
+    },
+    {
+      "_id": "32",
+      "name": "Beneath the Northern Lights",
+      "image": "https://i.ibb.co/L8dNyJJ/asdf.jpg",
+      "about": "Embark on an enchanting journey with 'Beneath the Northern Lights.'Unravels the tales of resilience.",
+      "category": "offered",
+      "price": 34.99
+    },
+    {
+      "_id": "33",
+      "name": "Echoes of Eternity",
+      "image": "https://i.ibb.co/kMJGF9P/aeeee.jpg",
+      "about": "Dive into the mesmerizing world of 'Echoes of Eternity.' This fantasy epic follows the quest of a young mage.",
+      "category": "offered",
+      "price": 29.99
+    },
+    {
+      "_id": "34",
+      "name": "Midnight Conspiracies",
+      "image": "https://i.ibb.co/gSzR2v5/51-KVe-V5nv6-L.jpg",
+      "about": "In 'Midnight Conspiracies,' secrets unravel under the cover of darkness. ",
+      "category": "Mystery and Thriller",
+      "price": 18.99
+    },
+    {
+      "_id": "35",
+      "name": "Vanishing Shadows",
+      "image": "https://i.ibb.co/tKQQY3d/a1.jpg",
+      "about": "Explore the chilling world of 'Vanishing Shadows,' where disappearances baffle investigators. ",
+      "category": "Mystery and Thriller",
+      "price": 22.99
+    },
+    {
+      "_id": "36",
+      "name": "Whispers in the Mist",
+      "image": "https://i.ibb.co/m8c9szV/a2.jpg",
+      "about": "Enter a world of mystery and magic with 'Whispers in the Mist.' In this atmospheric tale.",
+      "category": "Fiction",
+      "price": 26.99
+    },
+    {
+      "_id": "37",
+      "name": "Revolutionary Minds",
+      "image": "https://i.ibb.co/2jpdywb/a3.jpg",
+      "about": "Dive into minds of visionaries who shaped history in 'Revolutionary Minds.'Unveils the thoughts and actions of key figures",
+      "category": "History",
+      "price": 28.99
+    },
+    {
+      "_id": "38",
+      "name": "Empires of Antiquity",
+      "image": "https://i.ibb.co/YDj76MT/a4.jpg",
+      "about": "Explore the grandeur of ancient civilizations in 'Empires of Antiquity.' From the cradle of civilization to the heights of empires, ",
+      "category": "History",
+      "price": 32.99
+    },
+    {
+      "_id": "39",
+      "name": "Eternal Serenade",
+      "image": "https://i.ibb.co/bsr5yF9/a6.jpg",
+      "about": "Indulge in the timeless romance of 'Eternal Serenade.' This evocative novel weaves a tale of enduring love, passion",
+      "category": "Romance",
+      "price": 31.99
+    },
+    {
+      "_id": "2",
+      "name": "Gone Girl",
+      "image": "https://i.ibb.co/jDdH7nG/afff.jpg",
+      "about": "A psychological thriller about a woman's sudden disappearance.",
+      "category": "Mystery and Thriller",
+      "price": 16.99
+    }
+    
+    
+    
+    
+  ]
+  

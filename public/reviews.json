@@ -1,0 +1,39 @@
+[
+    {
+      "_id": "1",
+      "name": "Alice Johnson",
+      "details": "Alice Johnson had a fantastic experience at our bookstore. The diverse collection and cozy atmosphere made her visit memorable. Knowledgeable staff recommendations ensured she found the perfect reads. Rated 4.5 stars!",
+      "rating": 4.5
+    },
+    {
+      "_id": "2",
+      "name": "David Smith",
+      "details": "David Smith is a regular at our bookstore, Page Turner Books. He praises the extensive collection that caters to various tastes. The friendly and helpful staff always guide him to hidden gems. Rated 4.8 stars!",
+      "rating": 4.8
+    },
+    {
+      "_id": "3",
+      "name": "Emily Turner",
+      "details": "Emily Turner fell in love with The Literary Loft's historic charm. She appreciates the curated selection of rare finds and contemporary bestsellers. The friendly staff adds to the unique atmosphere. Rated 4.3 stars!",
+      "rating": 4.5
+    },
+    {
+      "_id": "4",
+      "name": "Oliver Harris",
+      "details": "Oliver Harris is enchanted by Ink & Imagination. He describes it as a haven for creativity with shelves that spark imagination. The cozy reading nooks invite readers to explore the world of literature. Rated 4.6 stars!",
+      "rating": 4.6
+    },
+    {
+      "_id": "5",
+      "name": "Sophia Carter",
+      "details": "Sophia Carter and her family adore Whimsical Words. The vibrant bookstore caters to all ages, especially the magical children's section. The knowledgeable staff creates a welcoming space. Rated 4.7 stars!",
+      "rating": 4.7
+    },
+    {
+      "_id": "6",
+      "name": "Benjamin Turner",
+      "details": "Benjamin Turner is a loyal customer of Novel Nook. He praises the diverse collection that caters to every literary taste. The peaceful ambiance is perfect for avid readers. A gem in the city! Rated 4.4 stars!",
+      "rating": 4.4
+    }
+  ]
+  

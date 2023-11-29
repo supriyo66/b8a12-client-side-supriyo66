@@ -4,6 +4,7 @@ import { loadCaptchaEnginge, LoadCanvasTemplate, LoadCanvasTemplateNoReload, val
 import { AuthContext } from "../../Provider/AuthProvider";
 import { Helmet } from "react-helmet-async";
 import Swal from "sweetalert2";
+import SocialLogin from "../../components/SocialLogin/SocilaLogin";
 
 
 const Login = () => {
@@ -105,7 +106,7 @@ const handleValidate=(e)=>{
         </div>
       </form>
       <p className="text-center text-xl font-medium p-5">New here? <Link to='/signup' className="text-blue-700">Sign Up</Link></p>
-      
+      <p className='text-center text-xl font-medium p-5'><SocialLogin></SocialLogin></p>
     </div>
     
     <div className="text-center w-1/3 lg:text-left">

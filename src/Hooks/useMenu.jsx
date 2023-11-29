@@ -8,7 +8,7 @@ const useMenu=()=>{
     
 
     useEffect(()=>{
-        fetch("http://localhost:5000/menu")
+        fetch("https://read-matrix-server.vercel.app/menu")
         .then(res=>res.json())
          .then(data=>{
             

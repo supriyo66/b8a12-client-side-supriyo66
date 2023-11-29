@@ -12,7 +12,7 @@ import React from 'react';
 const Testimonials = () => {
     const [reviews,setReviews]=useState([])
     useEffect(()=>{
-        fetch('http://localhost:5000/reviews')
+        fetch('https://read-matrix-server.vercel.app/reviews')
         .then(res=>res.json())
         .then(data=>setReviews(data))
     },[])

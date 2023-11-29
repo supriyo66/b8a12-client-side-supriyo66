@@ -4,6 +4,8 @@ import { useForm } from "react-hook-form";
 import { Link, useNavigate } from "react-router-dom";
 import { AuthContext } from "../../Provider/AuthProvider";
 import Swal from "sweetalert2";
+import useAxiosPublic from "../../Hooks/useAxiosPublic";
+import SocialLogin from "../../components/SocialLogin/SocilaLogin";
 
 
 
@@ -15,6 +17,7 @@ const Register = () => {
   const {createUser,updateUserProfile}=useContext(AuthContext)
 
   const navigate=useNavigate()
+  const axiosPublic=useAxiosPublic()
 
 
   const onSubmit = (data) =>{ 
@@ -25,20 +28,33 @@ const Register = () => {
         console.log(loggedUser)
         updateUserProfile(data.name,data.PhotoUrl)
         .then(()=>{
-          console.log('user')
-          reset()
-          Swal.fire({
-            position: "top-end",
-            icon: "success",
-            title: "User created successfully",
-            showConfirmButton: false,
-            timer: 1500
-          });
-          navigate('/')
+          const userInfo={
+            name: data.name,
+            email:data.email
+          }
+          axiosPublic.post('/users',userInfo)
+          .then(res=>{
+            if(res.data.insertedId)
+            console.log('user added')
+            reset ()
+            
+            Swal.fire({
+              
+              
+              position: "top-end",
+              icon: "success",
+              title: "Your work has been saved",
+              showConfirmButton: false,
+              timer: 1500
+            });
+            navigate('/')
+          })
+          
         })
-        .catch(err=>console.log(err))
-    })
-  }
+        .catch()
+        
+      })
+    }
     return ( 
     <>
     <Helmet>
@@ -101,7 +117,7 @@ const Register = () => {
               </div>
             </form>
             <p className="text-center text-xl font-medium p-5">Already have an account? <Link to='/login' className="text-blue-700">Login</Link></p>
-            
+            <p className='text-center text-xl font-medium p-5'><SocialLogin></SocialLogin></p>
           </div>
           <div className="text-center w-1/3 lg:text-left">
             <img src="https://i.ibb.co/W61DjBN/log.jpg"></img>

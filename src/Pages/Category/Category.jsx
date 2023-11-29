@@ -10,7 +10,7 @@ import slide5 from '../../assets/category/his.webp';
 import slide6 from '../../assets/category/rom.jpg';
 import SectionTitle from '../../components/SectionTitle/SectionTitle';
 import { Link } from 'react-router-dom';
-import { Helmet } from 'react-helmet-async';
+
 
 const Category = () => {
     return (
@@ -19,10 +19,7 @@ const Category = () => {
          <SectionTitle subHeading={"order online"} heading={'BOOK CATEGORIES'}>
 
 </SectionTitle>
-<Helmet>
-        <title>ReadMatrix | Categories</title>
-        
-      </Helmet>
+
          <Swiper
             slidesPerView={3}
             spaceBetween={30}
